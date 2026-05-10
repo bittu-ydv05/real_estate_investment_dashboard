@@ -20,7 +20,7 @@ st.title("🏠 Real Estate Investment Dashboard")
 # LOAD DATA
 
 
-df = pd.read_csv("india_housing_prices.csv")
+df = pd.read_csv("small_housing.csv")
 
 
 # SIDEBAR
